@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Coffs Harbour &amp; Mid North Coast Education Assistance</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+    <!-- Simple line icons-->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css"
+      rel="stylesheet">
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic"
+      rel="stylesheet" type="text/css">
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet">
+  </head>
+  <body id="page-top"><!-- Navigation-->
+    <nav id="sidebar-wrapper">
+      <ul class="sidebar-nav">
+        <li class="sidebar-brand"><a href="#page-top">Start Bootstrap</a></li>
+        <li class="sidebar-nav-item"><a href="#page-top">Home</a></li>
+        <li class="sidebar-nav-item"><a href="#about">About</a></li>
+        <li class="sidebar-nav-item"><a href="#services">Services</a></li>
+        <li class="sidebar-nav-item"><a href="#portfolio">Portfolio</a></li>
+        <li class="sidebar-nav-item"><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <!-- Header-->
+    <header class="masthead d-flex align-items-center">
+      <div class="container px-4 px-lg-5 text-center">
+        <h1 class="mb-1">Coffs Harbour </h1>
+        <h1 class="mb-1">&amp; Mid North Coast</h1>
+        <h1 class="mb-1">Education Assistance</h1>
+        <h3 class="mb-5"><em>Tutors &amp; Learning facilities for homeschoolers
+            <br>
+          </em></h3>
+        <a class="btn btn-primary btn-xl" href="#about">Find Out More</a> </div>
+    </header>
+    <!-- About-->
+    <section class="content-section bg-light" id="about">
+      <div class="container px-4 px-lg-5 text-center">
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+          <div class="col-lg-10">
+            <h2>Following is a list of learning facilitators and spaces in the
+              region spanning Emerald Beach to Dorrigo.</h2>
+            <p class="lead mb-5"> See what is on offer and choose the
+              educational assistance that best suits your childs needs! Get
+              specialised training!</p>
+            <a class="btn btn-dark btn-xl" href="#services">Learning Spaces</a>
+            <a class="btn btn-dark btn-xl" href="#portfolio">Tutors</a> </div>
+        </div>
+      </div>
+    </section>
+    <!-- Services-->
+    <section class="content-section bg-primary text-white text-center" id="services">
+      <div class="container px-4 px-lg-5">
+        <div class="content-section-heading">
+          <h3 class="text-secondary mb-0">Facilities</h3>
+          <h2 class="mb-5">Learning Spaces&nbsp; </h2>
+          <h1 class="mb-5">Homeschool Groups </h1>
+        </div>
+        <div class="row gx-4 gx-lg-5">
+          <div class="col-lg-3 col-md-6 mb-5 mb-lg-0"> <span class="service-icon rounded-circle mx-auto mb-3"></span>
+            <h4><strong>Coastal Tutor &amp; Out School<br>
+              </strong></h4>
+            <p class="text-faded mb-0">78a pinehyrst drive emerald beach</p>
+            <p class="text-faded mb-0">Contact: Tahnee Lee </p>
+            <p class="text-faded mb-0">phone: 0434 987 969</p>
+          </div>
+          <div class="col-lg-3 col-md-6 mb-5 mb-lg-0"> <span class="service-icon rounded-circle mx-auto mb-3"></span>
+            <h4><strong>Bellingen Home Ed<br>
+              </strong></h4>
+            <p class="text-faded mb-0">Email: bellohomeed@protonmail.com</p>
+            <p class="text-faded mb-0">Phone: Donna 0428 966 822</p>
+          </div>
+          <div class="col-lg-3 col-md-6 mb-5 mb-md-0"> <span class="service-icon rounded-circle mx-auto mb-3"></span>
+            <h4><strong>Coffs Coast Home Ed Connection<br>
+              </strong></h4>
+            Email: coffscoasthomeedconnect@gmail.com
+            <p>Phone: Shelly 0468 891 142</p>
+            <p><br>
+            </p>
+          </div>
+          <div class="col-lg-3 col-md-6"> <span class="service-icon rounded-circle mx-auto mb-3"></span>
+            <h4><strong>Clarence Valley Home Educators<br>
+              </strong></h4>
+            <p class="text-faded mb-0">Email: cvhomeed@gmail.com</p>
+            <p class="text-faded mb-0">Phone: Erin 0459 440 217</p>
+            <p class="text-faded mb-0"><br>
+            </p>
+          </div>
+          <div class="col-lg-3 col-md-6"> <span class="service-icon rounded-circle mx-auto mb-3"></span>
+            <h4><strong>Nambucca Valley Home Schoolers<br>
+              </strong></h4>
+            <p class="text-faded mb-0">Email: nvhomeschool@protonmail.com</p>
+            <p class="text-faded mb-0">Contact: Ryan</p>
+            <p class="text-faded mb-0">Telegram: Nambucca Valley Home Schoolers</p>
+            <h4><strong>&nbsp;</strong></h4>
+            <p class="text-faded mb-0"><br>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Callout-->
+    <section class="callout">
+      <div class="container px-4 px-lg-5 text-center">
+        <h2 class="mx-auto mb-5">Free young minds from indoctrination!</h2>
+        <p>Learn to think!</p>
+        <p>Learn&nbsp; to discern!</p>
+        <p>Learn logical&nbsp; fallacies!</p>
+        <p>Learn critical&nbsp; thinking!</p>
+        <p>Learn morality!</p>
+        <p>Learn real life skills!</p>
+        <p>Learn to be an entrepeauner!</p>
+      </div>
+    </section>
+    <!-- Portfolio-->
+    <section class="content-section" id="portfolio">
+      <div class="container px-4 px-lg-5">
+        <div class="content-section-heading text-center">
+          <h3 class="text-secondary mb-0">Tutors</h3>
+          <h2 class="mb-5">Tutors &amp; Learning Facilitators</h2>
+        </div>
+        <div class="row gx-0">
+          <div class="col-lg-6"> <a class="portfolio-item" href="https://barkingbandicoot.com">
+              <div class="caption">
+                <div class="caption-content">
+                  <div class="h2">Justin Graham</div>
+                  <p class="mb-0">Art Specialist -16 years in Secondary
+                    Education.</p>
+                  <p class="mb-0">BA Visual Arts, Grad dip Visual Arts, BA Art
+                    Education from CoFA (UNSW)</p>
+                  <p class="mb-0">Interests inc. Painting, Libre Software,
+                    Voluntaryism, Liberty &amp; Austrian Economics</p>
+                  <p class="mb-0">www.barkingbandicoot.com</p>
+                </div>
+              </div>
+              <img class="img-fluid" src="assets/img/folioshot.jpg" alt="..."> </a>
+          </div>
+          <div class="col-lg-6"> <a class="portfolio-item" href="#%21">
+              <div class="caption">
+                <div class="caption-content">
+                  <div class="h2">Ice Cream</div>
+                  <p class="mb-0">A dark blue background with a colored pencil,
+                    a clip, and a tiny ice cream cone!</p>
+                </div>
+              </div>
+              <img class="img-fluid" src="assets/img/portfolio-2.jpg" alt="...">
+            </a> </div>
+          <div class="col-lg-6"> <a class="portfolio-item" href="#%21">
+              <div class="caption">
+                <div class="caption-content">
+                  <div class="h2">Strawberries</div>
+                  <p class="mb-0">Strawberries are such a tasty snack,
+                    especially with a little sugar on top!</p>
+                </div>
+              </div>
+              <img class="img-fluid" src="assets/img/portfolio-3.jpg" alt="...">
+            </a> </div>
+          <div class="col-lg-6"> <a class="portfolio-item" href="#%21">
+              <div class="caption">
+                <div class="caption-content">
+                  <div class="h2">Workspace</div>
+                  <p class="mb-0">A yellow workspace with some scissors,
+                    pencils, and other objects.</p>
+                </div>
+              </div>
+              <img class="img-fluid" src="assets/img/portfolio-4.jpg" alt="...">
+            </a> </div>
+        </div>
+      </div>
+    </section>
+    <!-- Call to Action-->
+    <section class="content-section bg-primary text-white">
+      <div class="container px-4 px-lg-5 text-center">
+        <h2 class="mb-4">Join the Telegram group for further information</h2>
+        <a class="btn btn-xl btn-light me-4" href="#%21">J!</a> <a class="btn btn-xl btn-dark"
+          href="#%21">Look at Me!</a> </div>
+    </section>
+    <!-- Map-->
+    <div class="map" id="contact"> <iframe scrolling="no" marginheight="0" marginwidth="0"
+        src="https://www.openstreetmap.org/export/embed.html?bbox=152.31445312500003%2C-30.551617781478736%2C153.65890502929688%2C-29.794175906436607&amp;layer=mapnik"
+        style="border: 1px solid black" width="425" height="350" frameborder="0"></iframe><br>
+      <small><a href="https://www.openstreetmap.org/#map=10/-30.1736/152.9867">View
+          Larger Map</a></small><br>
+      <small><a href="https://www.openstreetmap.org/#map=10/-30.1736/152.9867">View
+          Larger Map</a></small>&gt; <br>
+    </div>
+    <!-- Footer-->
+    <footer class="footer text-center">
+      <div class="container px-4 px-lg-5">
+        <ul class="list-inline mb-5">
+          <li class="list-inline-item"> <br>
+          </li>
+          <li class="list-inline-item"> <br>
+          </li>
+          <li class="list-inline-item"> <br>
+          </li>
+        </ul>
+        <p class="text-muted small mb-0">Creative Commons&nbsp; 2021</p>
+      </div>
+    </footer>
+    <!-- Scroll to Top Button-->
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+  </body>
+</html>
